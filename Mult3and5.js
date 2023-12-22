@@ -17,7 +17,7 @@ function solution(number){
     }
 
     if (sum < 0) {
-        return 0
+        return 0 
     } else {
         return sum
     }
