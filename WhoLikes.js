@@ -12,4 +12,4 @@
     }
 }
 
-likes(["Peter", "Jason"])    
+likes(["Peter", "Jason"])     
