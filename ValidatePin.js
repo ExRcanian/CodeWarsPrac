@@ -1,4 +1,4 @@
- function validatePIN (pin) {
+  function validatePIN (pin) {
     let numPin = Number(pin)
     /* const numPin = (pin) => /^\d+$/.test(pin);
     if (pin.length == 4 || pin.length == 6) {
