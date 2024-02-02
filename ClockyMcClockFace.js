@@ -1,4 +1,4 @@
-var whatTimeIsIt = function(angle) {
+ var whatTimeIsIt = function(angle) {
     let timeH = Math.floor(angle / 30)
     let timeM = Math.floor(((angle % 30)/30) * 60)
     if (timeH < 10) {
