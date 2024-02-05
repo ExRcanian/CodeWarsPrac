@@ -11,6 +11,6 @@ function isPangram(string){
     if (pangram == true) {
         return true
     } else {
-        return false
+        return false 
     }
 }
