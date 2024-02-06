@@ -4,7 +4,7 @@ function descendingOrder(n) {
         
     }
     
-}
+} 
 
 descendingOrder(12345)
 
