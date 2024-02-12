@@ -20,7 +20,7 @@ function solution(number){
         return 0 
     } else {
         return sum 
-    }
+    } 
 }
 
 
