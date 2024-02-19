@@ -6,5 +6,5 @@ function descendingOrder(n) {
     
 } 
 
-descendingOrder(12345)
+descendingOrder(12345) 
 
