@@ -26,5 +26,5 @@
             return `${timeH}:${timeM}`;
         }
     }
-}
+} 
 
