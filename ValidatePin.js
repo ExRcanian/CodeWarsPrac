@@ -9,4 +9,4 @@
     console.log(numPin.length);
 }
 
-validatePIN(1234) 
+validatePIN(1234)  
