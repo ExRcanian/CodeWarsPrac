@@ -9,6 +9,6 @@ function nbYear(currentPop, percentIncrease, migrants, targetPop) {
     } while (currentPop < targetPop) {
         
     return years
-    }  
+    }   
 }  
  
