@@ -13,4 +13,4 @@ function isPangram(string){
     } else {
         return false 
     }
-}
+} 
