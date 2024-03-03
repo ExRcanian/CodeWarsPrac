@@ -9,7 +9,7 @@ function isPangram(string){
         }
     }
     if (pangram == true) {
-        return true
+        return true 
     } else {
         return false 
     }
