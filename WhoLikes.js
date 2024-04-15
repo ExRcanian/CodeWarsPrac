@@ -12,4 +12,4 @@ function likes(names) {
     }
 }
    
-likes(["Peter", "Jason"])                                    
+likes(["Peter", "Jason"])                                     
